@@ -1,0 +1,1 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -g -Wall -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/ogamalBreakout.dir/Breakout.cpp.o CMakeFiles/ogamalBreakout.dir/main.cpp.o CMakeFiles/ogamalBreakout.dir/MainMenu.cpp.o  -o ogamalBreakout  -framework AGL -framework OpenGL -framework GLUT -framework Cocoa 
