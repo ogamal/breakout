@@ -3,7 +3,7 @@ Breakout game in C++ using OpenGL and GLUT libraries. This project was written a
 
 Screenshot:
 ===========
-![Breakout Game Screenshot](https://raw.github.com/ogamal/breakout/master/screenshot.jpgg)
+![Breakout Game Screenshot](https://raw.github.com/ogamal/breakout/master/screenshot.jpg)
 
 Notes:
 =======
